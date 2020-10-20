@@ -13,8 +13,7 @@ class ServiceController extends Controller
             }
         ])->
         get();
-
-           
+                  
         return $services;
     }
   
